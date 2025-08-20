@@ -9,10 +9,10 @@ This guide walks you through a modular and reusable approach to scaffold third-p
 
 | Step | File Name                  | Purpose                                                                 |
 |------|----------------------------|-------------------------------------------------------------------------|
-| 1️⃣   | `01.initial-setup.md`      | Collect initial inputs and scaffold folder structure based on project type |
-| 2️⃣   | `02.third-party-service-setup.md` | Scaffold service files, DTOs, and config structure                        |
-| 3️⃣   | `03.setup-common.md`      | Generate shared Models, Helpers, and Documentation                       |
-| 4️⃣   | `04.setup-tests.md`       | Scaffold a full unit test project with mocking and test templates         |
+| 1️⃣   | [`01.initial-setup.md`](https://github.com/dotnet-simformsolutions/dotnet-third-party-integration-scaffolder/blob/main/copilot/01.initial-setup.md)       | Collect initial inputs and scaffold folder structure based on project type |
+| 2️⃣   | [`02.third-party-service-setup.md`](https://github.com/dotnet-simformsolutions/dotnet-third-party-integration-scaffolder/blob/main/copilot/02.third-party-service-setup.md) | Scaffold service files, DTOs, and config structure                        |
+| 3️⃣   | [`03.setup-common.md`](https://github.com/dotnet-simformsolutions/dotnet-third-party-integration-scaffolder/blob/main/copilot/03.setup-common.md)        | Generate shared Models, Helpers, and Documentation                       |
+| 4️⃣   | [`04.setup-tests.md`](https://github.com/dotnet-simformsolutions/dotnet-third-party-integration-scaffolder/blob/main/copilot/04.setup-tests.md)       | Scaffold a full unit test project with mocking and test templates         |
 
 ---
 
